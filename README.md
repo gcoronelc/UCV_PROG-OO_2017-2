@@ -1,26 +1,24 @@
-# Programación Orientada a Objetos con Java
+![PROGRAMACIÓN ORIENTADA A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCV_PROG-OO_2017-2/master/img/curso.png)
 
-![PROGRAMACIÓN I](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-I_2017-2/master/Img/uch.png)
+![PROGRAMACIÓN ORIENTADA A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCV_PROG-OO_2017-2/master/img/portada.png)
 
-![PROGRAMACIÓN I](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-I_2017-2/master/Img/ds.png)
+![PROGRAMACIÓN ORIENTADA A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCV_PROG-OO_2017-2/master/img/ds.png)
 
-![PROGRAMACIÓN I](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-I_2017-2/master/Img/java-cs.png)
+![PROGRAMACIÓN ORIENTADA A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UCV_PROG-OO_2017-2/master/img/java-cs.png)
 
+# PROGRAMACIÓN ORIENTADA A OBJETOS
 
-# PROGRAMACIÓN I
-
-- Lugar: UNIVERSIDAD DE CIENCIAS Y HUMANIDADES
-- Horario: VIERNES DE 08:00 a 12:30 Horas
-- Inicio: 18-AGOSTO-2017
-- Teoría: 503 B (08:00 a 10:15 Horas)
-- Laboratorio: 302-B (10:15 a 12:30 Horas)
+- Lugar: UNIVERSIDAD CESAR VALLEJO
+- Horario: LUNES DE 07:30 a 12:30 Horas
+- Inicio: 28-AGOSTO-2017
+- Teoría: 104 A (07:30 a 10:00 Horas)
+- Laboratorio: 101-A (10:20 a 12:00 Horas)
 
 
 # DOCENTE
 
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
-- Correo: ecoronel@uch.edu.pe
 
 
 # RECURSOS RECOMENDADOS
@@ -40,6 +38,21 @@
 - Curso de Java: https://devcode.la/cursos/fundamentos-java/
 - Grupo de Java: https://www.facebook.com/groups/universidadjava/
 - Código Fuente JAVA-CS: https://goo.gl/eCQstU
+
+# JAVA ORIENTADO A OBJETOS
+
+- Recursos: https://github.com/gcoronelc/recursos
+- Imagenes: https://github.com/gcoronelc/imagenes
+- Separata: http://gcoronelc.blogspot.pe/2016/06/separata-java-orientado-objetos.html
+- Lección 01: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
+- Lección 02: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
+- Lección 03: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-03-sobrecarga.html
+- Lección 04: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-04-alcance-de-clase-y.html
+- Lección 05: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
+- Lección 06: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-06-interfaces.html
+- Lección 07: http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-07-arreglos.html
+- Lección 08: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-08-colecciones.html
+- Lección 09: http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
 
 
 # AUTO-EVALUACIÓN
@@ -67,4 +80,3 @@
 - Enlace 21: http://www.techbeamers.com/category/java-quiz/
 - Enlace 22: https://modernpathshala.com/
 - Enlace 23: http://www.whizlabs.com
-
