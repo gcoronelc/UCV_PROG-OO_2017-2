@@ -1,0 +1,27 @@
+1.- Patrones Factory
+    
+
+2.- Principios SOLID
+    
+
+3.- Expresiones Lambda y Strem en Java 8
+    
+
+4.- Pruebas Unitarias
+    
+
+5.- Manejo de Archivos Log
+    
+
+6.- Manejo de Datos Genericos - Generic
+
+
+7.- Patrón Inyección de Dependencias
+    
+
+8.- Colecciones con JCF
+
+
+9.- Programación Funcional con Java
+
+
