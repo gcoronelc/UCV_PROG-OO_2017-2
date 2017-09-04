@@ -4,6 +4,7 @@ public class Prueba01{
    
     while( true ) {
       new Producto();
+	  
     }
     
     
