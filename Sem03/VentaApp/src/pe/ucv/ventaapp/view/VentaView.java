@@ -5,6 +5,11 @@
  */
 package pe.ucv.ventaapp.view;
 
+import javax.swing.JOptionPane;
+import javax.swing.table.DefaultTableModel;
+import pe.ucv.ventaapp.controller.VentaController;
+import pe.ucv.ventaapp.model.Item;
+
 /**
  *
  * @author ALUMNO
@@ -32,7 +37,7 @@ public class VentaView extends javax.swing.JFrame {
     txtTotal = new javax.swing.JTextField();
     jPanel2 = new javax.swing.JPanel();
     jScrollPane1 = new javax.swing.JScrollPane();
-    jTable1 = new javax.swing.JTable();
+    tblRepo = new javax.swing.JTable();
     jPanel3 = new javax.swing.JPanel();
     jButton1 = new javax.swing.JButton();
 
@@ -45,7 +50,7 @@ public class VentaView extends javax.swing.JFrame {
     jLabel1.setText("Tipo:");
 
     cboTipo.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-    cboTipo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
+    cboTipo.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Boleta", "Factura" }));
 
     jLabel2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
     jLabel2.setText("Total:");
@@ -83,18 +88,37 @@ public class VentaView extends javax.swing.JFrame {
 
     jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "OUTPUT", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.ABOVE_TOP, new java.awt.Font("Tahoma", 1, 18), new java.awt.Color(255, 0, 51))); // NOI18N
 
-    jTable1.setModel(new javax.swing.table.DefaultTableModel(
+    tblRepo.setModel(new javax.swing.table.DefaultTableModel(
       new Object [][] {
-        {null, null, null, null},
-        {null, null, null, null},
-        {null, null, null, null},
-        {null, null, null, null}
+        {null, null},
+        {null, null},
+        {null, null},
+        {null, null}
       },
       new String [] {
-        "Title 1", "Title 2", "Title 3", "Title 4"
+        "CONCEPTO", "VALOR"
       }
-    ));
-    jScrollPane1.setViewportView(jTable1);
+    ) {
+      Class[] types = new Class [] {
+        java.lang.String.class, java.lang.Double.class
+      };
+      boolean[] canEdit = new boolean [] {
+        false, false
+      };
+
+      public Class getColumnClass(int columnIndex) {
+        return types [columnIndex];
+      }
+
+      public boolean isCellEditable(int rowIndex, int columnIndex) {
+        return canEdit [columnIndex];
+      }
+    });
+    jScrollPane1.setViewportView(tblRepo);
+    if (tblRepo.getColumnModel().getColumnCount() > 0) {
+      tblRepo.getColumnModel().getColumn(0).setResizable(false);
+      tblRepo.getColumnModel().getColumn(1).setResizable(false);
+    }
 
     javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
     jPanel2.setLayout(jPanel2Layout);
@@ -120,6 +144,11 @@ public class VentaView extends javax.swing.JFrame {
     jPanel3.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "ACCION", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.ABOVE_TOP, new java.awt.Font("Tahoma", 1, 18), new java.awt.Color(255, 0, 51))); // NOI18N
 
     jButton1.setText("Procesar");
+    jButton1.addActionListener(new java.awt.event.ActionListener() {
+      public void actionPerformed(java.awt.event.ActionEvent evt) {
+        jButton1ActionPerformed(evt);
+      }
+    });
 
     javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
     jPanel3.setLayout(jPanel3Layout);
@@ -165,6 +194,29 @@ public class VentaView extends javax.swing.JFrame {
     pack();
   }// </editor-fold>//GEN-END:initComponents
 
+  private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+    
+    // Datos
+    String tipo = cboTipo.getSelectedItem().toString();
+    double total = Double.parseDouble(txtTotal.getText());
+    
+    // Proceso
+    VentaController control;
+    control = new VentaController();
+    Item[] repo = control.procesar(tipo, total);
+    
+    // Reporte
+    // Mostrar el reporte en la tabla
+    DefaultTableModel tabla;
+    tabla = (DefaultTableModel) tblRepo.getModel();
+    tabla.setRowCount(0);
+    for (Item item : repo) {
+      Object[] rowData = {item.getConcepto(), item.getValor()};
+      tabla.addRow(rowData);
+    }
+    
+  }//GEN-LAST:event_jButton1ActionPerformed
+
   /**
    * @param args the command line arguments
    */
@@ -209,7 +261,7 @@ public class VentaView extends javax.swing.JFrame {
   private javax.swing.JPanel jPanel2;
   private javax.swing.JPanel jPanel3;
   private javax.swing.JScrollPane jScrollPane1;
-  private javax.swing.JTable jTable1;
+  private javax.swing.JTable tblRepo;
   private javax.swing.JTextField txtTotal;
   // End of variables declaration//GEN-END:variables
 }

@@ -1,6 +1,7 @@
 package pe.ucv.ventaapp.prueba;
 
 import pe.ucv.ventaapp.model.Item;
+import pe.ucv.ventaapp.service.BoletaService;
 import pe.ucv.ventaapp.service.CompAbstract;
 import pe.ucv.ventaapp.service.FacturaService;
 
@@ -12,7 +13,7 @@ public class Prueba01 {
     double total = 567.89;
     
     // Proceso
-    CompAbstract comp = new FacturaService();
+    CompAbstract comp = new BoletaService();
     Item[] repo = comp.procesarVenta(total);
     
     // Reporte
