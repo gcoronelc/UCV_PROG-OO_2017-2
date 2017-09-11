@@ -2,26 +2,56 @@
     
 
 2.- Principios SOLID
+    Alegria Mamani, José
+    Alvarez Huamani, Rosario
+    Bardales Rojas, Enoc
+    Huaman Francia, Aracely
+    Palomino Sotelo, Ronaldinho
     
 
 3.- Expresiones Lambda y Strem en Java 8
-    
+    Celestino Huaman, Angie
+    Diaz Ocampo, Ricardo
+    Pinto Carhuamaca, Jeremy
+    Flores Santisteban, José
+
 
 4.- Pruebas Unitarias
+    Chino Rojas Diego
+    Alcantara Cuzco, Ernesto
+    Jara Acuña, Alessandro
+    Jeyckoff Bogatich, 
     
 
 5.- Manejo de Archivos Log
+    Merino Maceta, Carlos
+    Mamani Valencia, Jeancarlos
+    Morales Carlos, Jesus
+    Orellana Aliano, Roberto
     
 
 6.- Manejo de Datos Genericos - Generic
-
+    Cahuana Prado, Angel
+    Simon Huarcaya, Alejandro
+    CCasani Condori, Christian
+    Mayta Chire, Carlos
 
 7.- Patrón Inyección de Dependencias
     
 
 8.- Colecciones con JCF
-
+    Matencio Matencio, Wilmer
+    Arotoma Pariona, Ivan
+    De La Cruz Chilingano, Marco
+    Quinto Rosales, Ronald
+    
 
 9.- Programación Funcional con Java
+    Collazos Quispe, Omar
+    Sotelo Samaniego, Roberto
+    Sierra Ninavilca, Ronald
+    Cahuana Roman, Alexander
+    Rojas Santiago, Luis
+
 
 
