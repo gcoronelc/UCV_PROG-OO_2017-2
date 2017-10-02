@@ -1,0 +1,98 @@
+GRUPO 01
+=================================
+- Alegria Mamani, José
+- Alvarez Huamani, Rosario
+- Bardales Rojas, Enoc
+- Huaman Francia, Aracely
+- Palomino Sotelo, Ronaldinho
+Etapa 1: Principios SOLID
+Etapa 2: Patrones Factory
+    
+GRUPO 02
+=============================================
+- Celestino Huaman, Angie
+- Diaz Ocampo, Ricardo
+- Pinto Carhuamaca, Jeremy
+- Flores Santisteban, José
+- Muñoz Ccanto, Joel Nivardo
+Etapa 1: Expresiones Lambda y Strem en Java 8
+Etapa 2: Pruebas Unitarias
+
+
+GRUPO 03
+==============================================
+- Chino Rojas Diego
+- Alcantara Cuzco, Ernesto
+- Jara Acuña, Alessandro
+- Bogatich Huaranga, Jheyckoff Mijhayl
+Etapa 1: Pruebas Unitarias
+Etapa 2: Código Limpio
+    
+GRUPO 04
+==============================================
+- Merino Maceta, Carlos
+- Mamani Valencia, Jeancarlos
+- Morales Carlos, Jesus
+- Orellana Aliano, Roberto
+Etapa 1: Manejo de Archivos Log
+Etapa 2: Código Sucio
+    
+
+GRUPO 05
+==============================================	
+- Cahuana Prado, Angel
+- Simon Huarcaya, Alejandro
+- CCasani Condori, Christian
+- Mayta Chire, Carlos
+Etapa 1: Manejo de Datos Genericos - Generic
+Etapa 2: Programación Funcional y Expresiones Lambda
+
+
+GRUPO 05
+==============================================	
+- Matencio Matencio, Wilmer
+- Arotoma Pariona, Ivan
+- De La Cruz Chilingano, Marco
+- Quinto Rosales, Ronald
+Etapa 1: Colecciones con JCF
+Etapa 2: Pruebas de Cobertura
+
+
+GRUPO 06
+==============================================
+- Collazos Quispe, Omar
+- Sotelo Samaniego, Roberto
+- Sierra Ninavilca, Ronald
+- Cahuana Roman, Alexander
+- Rojas Santiago, Luis
+Etapa 1: Programación Funcional con Java
+Etapa 2: Principios SOLID
+
+
+GRUPO 07
+==============================================	
+NOVOA RIOS, ROLANDO JESUS
+PONCE ORE, ELIDA CONSUELO
+FLORES RAMOS, MAURO BENJAMIN
+Etapa 1: 
+Etapa 2: API JSON para Java
+	
+	
+	
+APOLINARIO PEREZ, NATHALY MIRNA
+MEDRANO VARGAS, MAX ALESSANDRO
+
+
+
+	
+
+	
+    
+
+
+    
+
+
+
+
+
