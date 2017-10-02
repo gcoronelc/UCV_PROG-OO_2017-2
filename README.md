@@ -39,6 +39,9 @@
 - Grupo de Java: https://www.facebook.com/groups/universidadjava/
 - Código Fuente JAVA-CS: https://goo.gl/eCQstU
 
+- Libros: https://github.com/dieforfree/edsebooks
+
+
 # JAVA ORIENTADO A OBJETOS
 
 - Recursos: https://github.com/gcoronelc/recursos
