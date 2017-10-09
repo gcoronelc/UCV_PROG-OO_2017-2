@@ -26,6 +26,7 @@ public class Prueba02 {
                 System.out.println(fila);
             }
         } catch (Exception e) {
+            e.printStackTrace();
             System.err.println(e.getMessage());
         }
     }
