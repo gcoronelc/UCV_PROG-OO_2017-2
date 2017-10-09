@@ -1,0 +1,9 @@
+Consultar los cursos por tarifa.
+
+idcurso 
+idtarifa 
+nomtarifa
+nomcurso
+precioventa
+horas
+pagohora
