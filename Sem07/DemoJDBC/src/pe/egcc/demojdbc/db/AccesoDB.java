@@ -20,7 +20,7 @@ public class AccesoDB {
     try {
       // Datos Oracle
       String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-      String url = "jdbc:sqlserver://10.82.9.10:1433;databaseName=edutec";
+      String url = "jdbc:sqlserver://localhost:1433;databaseName=edutec";
       String user = "eureka";
       String pass = "admin";
       // Cargar el driver a memoria
