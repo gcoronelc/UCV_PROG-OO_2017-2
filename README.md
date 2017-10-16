@@ -40,6 +40,7 @@
 - Código Fuente JAVA-CS: https://goo.gl/eCQstU
 
 - Libros: https://github.com/dieforfree/edsebooks
+- AOO: https://www.youtube.com/watch?v=xyuyCoYKvy0
 
 
 # JAVA ORIENTADO A OBJETOS
