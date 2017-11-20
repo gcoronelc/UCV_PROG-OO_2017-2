@@ -1,9 +1,7 @@
 package pe.egcc.app12.prueba;
 
-import java.sql.Connection;
-import pe.egcc.app12.db.AccesoDB;
 import pe.egcc.app12.model.Alumno;
-import pe.egcc.app12.service.AppService;
+import pe.egcc.app12.service.AlumnoService;
 
 public class Prueba02 {
 
@@ -21,7 +19,7 @@ public class Prueba02 {
           
           
           // Proceso
-          AppService appService = new AppService();
+          AlumnoService appService = new AlumnoService();
           Alumno bean =appService.registrarAlumno(alumno);
           
           // Reporte
