@@ -1,0 +1,122 @@
+GRUPO 01 - Queda
+=================================
+- Alvarez Huamani, Rosario
+- Huaman Francia, Aracely
+Etapa 1: Principios SOLID
+Etapa 2: Patrones Factory
+Etapa 3: Proyecto
+
+
+GRUPO 02 - Queda
+=============================================
+- Celestino Huaman, Angie
+- Diaz Ocampo, Ricardo
+- Flores Santisteban, José
+- Arotoma Pariona, Ivan
+- De La Cruz Chilingano, Marco
+- Quinto Rosales, Ronald
+Etapa 1: Expresiones Lambda y Strem en Java 8
+Etapa 2: Pruebas Unitarias
+Etapa 3: Proyecto
+
+
+GRUPO 03 - 
+==============================================
+- Chino Rojas Diego
+- Alcantara Cuzco, Ernesto
+- Jara Acuña, Alessandro
+- Bogatich Huaranga, Jheyckoff Mijhayl
+Etapa 1: Pruebas Unitarias
+Etapa 2: Código Limpio
+Etapa 3: Proyecto
+
+    
+GRUPO 04 - Queda
+==============================================
+- Merino Maceta, Carlos
+Etapa 1: Manejo de Archivos Log
+Etapa 2: Código Sucio
+Etapa 3: Proyecto    
+
+GRUPO 05 - Queda
+==============================================	
+- Cahuana Prado, Angel
+- Simon Huarcaya, Alejandro
+- CCasani Condori, Christian
+- Mayta Chire, Carlos
+- Cahuana Roman, Alexander
+Etapa 1: Manejo de Datos Genericos - Generic
+Etapa 2: Programación Funcional y Expresiones Lambda
+Etapa 3: Proyecto
+
+
+GRUPO 06
+==============================================	
+Etapa 1: Colecciones con JCF
+Etapa 2: Pruebas de Cobertura
+Etapa 3: Proyecto
+
+
+GRUPO 07
+==============================================
+- Collazos Quispe, Omar
+- Sotelo Samaniego, Roberto
+- Sierra Ninavilca, Ronald
+- Rojas Santiago, Luis
+Etapa 1: Programación Funcional con Java
+Etapa 2: Principios SOLID
+Etapa 3: Proyecto
+
+
+GRUPO 08
+==============================================	
+NOVOA RIOS, ROLANDO JESUS
+PONCE ORE, ELIDA CONSUELO
+Etapa 1: 
+Etapa 2: API JSON para Java
+Etapa 3: Proyecto
+	
+	
+GRUPO 09
+==============================================	
+Etapa 1: 
+Etapa 2: 
+Etapa 3: Proyecto
+
+
+
+GRUPO 10
+==============================================	
+Etapa 1: 
+Etapa 2: 
+Etapa 3: Proyecto
+
+
+	
+- Apolinario P|erez, Nathaly Mirna
+- Medrano Vargas, Max Alessandro
+- Alegria Mamani, José  
+- Bardales Rojas, Enoc
+- Palomino Sotelo, Ronaldinho
+- Muñoz Ccanto, Joel Nivardo
+- Pinto Carhuamaca, Jeremy
+- Mamani Valencia, Jeancarlos
+- Morales Carlos, Jesus
+- Orellana Aliano, Roberto
+- Matencio Matencio, Wilmer
+
+
+
+RETIRADOS
+- FLORES RAMOS, MAURO BENJAMIN	
+
+	
+    
+
+
+    
+
+
+
+
+

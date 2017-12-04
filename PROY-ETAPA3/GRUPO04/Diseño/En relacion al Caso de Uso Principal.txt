@@ -1,0 +1,1 @@
+cambiar los nombres del panel principal dependiendo de tus frames
